@@ -1,4 +1,4 @@
-package com.github.sekojuku;
+package com.github.sekojuku.asbtract;
 
 public class Solution {
 
